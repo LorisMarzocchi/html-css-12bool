@@ -1,5 +1,5 @@
 
-
+ 
 
 [class*="col-"] {
     height: 50px;
@@ -9,6 +9,16 @@
     color: white;
 }
 
+.verde {
+    background-color: green;
+    height: 30px;
+    color: white;
+    text-align: center;
+}
 
 
-
+.container-verde{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+}
