@@ -7,7 +7,11 @@
     border: 1px solid white;
     text-align: center;
     color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
 
 .verde {
     background-color: green;
@@ -21,4 +25,7 @@
     width: 100%;
     display: flex;
     padding: 10px;
+}
+.space{
+    margin-top: 20px;
 }
